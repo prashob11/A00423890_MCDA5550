@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">BMICalc</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="calulate_bmi">Calulate BMI</string>
+    <string name="textview">TextView</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
 </resources>
