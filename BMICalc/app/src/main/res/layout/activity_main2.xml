@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="@string/height in meters"
+            android:hint="@string/height"
             android:inputType="textPersonName|number|numberDecimal" />
 
         <EditText
@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="@string/weight in kgs"
+            android:hint="@string/weight"
             android:inputType="textPersonName|number|numberDecimal" />
 
         <Button
